@@ -1,0 +1,14 @@
+{
+    "name": "lewton/test",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangbo",
+            "email": "420092586@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
